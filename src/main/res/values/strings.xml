@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">WordStats</string>
+    <string name="title_section3">Twitter</string>
+    <string name="title_section2">Facebook</string>
+    <string name="title_section1">Texts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Word Stats</string>
+
+</resources>
